@@ -7,7 +7,7 @@ import './NavBar.css';
 export default function NavBar() {
     return (
         <div id='navigation'>
-            <img src="/Logo.svg" alt="Little Lemon Logo" />
+            <img src="%PUBLIC_URL%/Logo.svg" alt="Little Lemon Logo" />
             <nav>
                 <ul className='nav-items'>
                     <Link to="/">Home</Link>
