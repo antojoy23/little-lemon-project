@@ -1,0 +1,27 @@
+#navigation {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+
+nav {
+    align-self: center;
+}
+
+#navigation img {
+    width: 200px;
+    height: auto;
+}
+
+.nav-items {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 0.5rem;
+}
+
+.nav-items a {
+    justify-self: center;
+    text-decoration: none;
+    color: #000000;
+    font-weight: 600;
+    font-size: 1.3em;
+}

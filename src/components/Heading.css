@@ -1,0 +1,55 @@
+#main-heading article {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: minmax(300px, auto);
+    background-color: #495E57;
+    border-radius: 16px;
+    padding: 1rem 2rem;
+    margin-bottom: 80px;
+}
+
+#main-heading section {
+    position: relative;
+    color: #FFFFFF;
+}
+
+#main-heading h1 {
+    font-size: 3em;
+}
+
+#main-heading h2 {
+    font-size: 2em;
+}
+
+#main-heading .reserve-table-button {
+    margin-top: 40px;
+}
+
+#main-heading a {
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: 500;
+    font-family: 'Karla';
+    background-color: #F4CE14;
+    padding: 10px 20px;
+    border-radius: 16px;
+    color: #000000;
+}
+
+#main-heading section img{
+    width: 225px;
+    max-width: none; /* Overriding chakra ui */
+    height: auto;
+    margin-top: 20px;
+    border-radius: 16px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#main-heading section:last-child {
+    justify-self: right;
+    right: 280px;
+}

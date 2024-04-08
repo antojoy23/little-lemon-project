@@ -1,0 +1,51 @@
+#about-article {
+    display: grid;
+    grid-template-columns: 1.5fr 1fr;
+    gap: 0 2em;
+    min-height: 300px;
+    background-color: #F4CE14;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+#about-content-wrapper {
+    padding: 10px 30px;
+}
+
+#about-content-wrapper h1 {
+    font-size: 3em;
+}
+
+#about-content-wrapper h2 {
+    font-size: 2em;
+}
+
+#about-images-wrapper {
+    display: flex;
+    justify-content: end;
+}
+
+#about-images-wrapper img{
+    position: relative;
+    width: 200px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 10px;
+    z-index: 3;
+}
+
+#about-images-wrapper div {
+    position: relative;
+    margin-top: 40px;
+    width: 200px;
+    height: auto;
+    margin-right: 10%;
+}
+
+#about-images-wrapper img:nth-child(2) {
+    position: absolute;
+    top: 40%;
+    right: 70%;
+    z-index: 2;
+}
+

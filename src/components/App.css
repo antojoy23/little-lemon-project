@@ -1,0 +1,39 @@
+* {
+    font-family: "Markazi Text", "Karla", serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    letter-spacing: 1px;
+}
+
+label, input, select, textarea, p {
+    font-family: 'Karla';
+}
+
+.app-container {
+    margin: 1em 5em;
+    display: grid;
+    grid-template-areas:
+        'nav'
+        'header'
+        'main'
+        'footer';
+    grid-gap: 0.5em;
+}
+
+#navigation {
+    grid-area: nav;
+}
+
+#main-heading {
+    grid-area: header;
+}
+
+#main-content {
+    grid-area: main;
+}
+
+#footer {
+    grid-area: footer;
+}
