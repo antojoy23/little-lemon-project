@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.b1a5937f.css",
-    "main.js": "/static/js/main.f918970f.js",
-    "static/js/453.99c1801e.chunk.js": "/static/js/453.99c1801e.chunk.js",
-    "static/media/Mario and Adrian A.jpg": "/static/media/Mario and Adrian A.7f44c6d6e341a27d14b3.jpg",
-    "static/media/Mario and Adrian b.jpg": "/static/media/Mario and Adrian b.6ba0e06bfa9c1ea75109.jpg",
-    "static/media/bruchetta.svg": "/static/media/bruchetta.29ea078fea3d3120ed22402e901b5bbc.svg",
-    "static/media/greek salad.jpg": "/static/media/greek salad.bed423a1fab5b210e347.jpg",
-    "static/media/restauranfood.jpg": "/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
-    "static/media/restaurant.jpg": "/static/media/restaurant.324d0f99bdf19400a0f7.jpg",
-    "static/media/footer-logo.png": "/static/media/footer-logo.4470f9c9e815da98dbb3.png",
-    "static/media/quotes_icon.svg": "/static/media/quotes_icon.96cbda1dbfbb59aa3ee044858f7d781e.svg",
-    "index.html": "/index.html",
-    "main.b1a5937f.css.map": "/static/css/main.b1a5937f.css.map",
-    "main.f918970f.js.map": "/static/js/main.f918970f.js.map",
-    "453.99c1801e.chunk.js.map": "/static/js/453.99c1801e.chunk.js.map"
+    "main.css": "/little-lemon-project/static/css/main.b1a5937f.css",
+    "main.js": "/little-lemon-project/static/js/main.32aa3a0d.js",
+    "static/js/453.99c1801e.chunk.js": "/little-lemon-project/static/js/453.99c1801e.chunk.js",
+    "static/media/Mario and Adrian A.jpg": "/little-lemon-project/static/media/Mario and Adrian A.7f44c6d6e341a27d14b3.jpg",
+    "static/media/Mario and Adrian b.jpg": "/little-lemon-project/static/media/Mario and Adrian b.6ba0e06bfa9c1ea75109.jpg",
+    "static/media/bruchetta.svg": "/little-lemon-project/static/media/bruchetta.29ea078fea3d3120ed22402e901b5bbc.svg",
+    "static/media/greek salad.jpg": "/little-lemon-project/static/media/greek salad.bed423a1fab5b210e347.jpg",
+    "static/media/restauranfood.jpg": "/little-lemon-project/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/restaurant.jpg": "/little-lemon-project/static/media/restaurant.324d0f99bdf19400a0f7.jpg",
+    "static/media/footer-logo.png": "/little-lemon-project/static/media/footer-logo.4470f9c9e815da98dbb3.png",
+    "index.html": "/little-lemon-project/index.html",
+    "static/media/quotes_icon.svg": "/little-lemon-project/static/media/quotes_icon.96cbda1dbfbb59aa3ee044858f7d781e.svg",
+    "main.b1a5937f.css.map": "/little-lemon-project/static/css/main.b1a5937f.css.map",
+    "main.32aa3a0d.js.map": "/little-lemon-project/static/js/main.32aa3a0d.js.map",
+    "453.99c1801e.chunk.js.map": "/little-lemon-project/static/js/453.99c1801e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1a5937f.css",
-    "static/js/main.f918970f.js"
+    "static/js/main.32aa3a0d.js"
   ]
 }
