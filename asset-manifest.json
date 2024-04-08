@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/little-lemon-project/static/css/main.f30d2eea.css",
-    "main.js": "/little-lemon-project/static/js/main.55a0ab24.js",
+    "main.css": "/little-lemon-project/static/css/main.3a54c05a.css",
+    "main.js": "/little-lemon-project/static/js/main.192c3aff.js",
     "static/js/453.99c1801e.chunk.js": "/little-lemon-project/static/js/453.99c1801e.chunk.js",
     "static/media/Mario and Adrian A.jpg": "/little-lemon-project/static/media/Mario and Adrian A.7f44c6d6e341a27d14b3.jpg",
     "static/media/Mario and Adrian b.jpg": "/little-lemon-project/static/media/Mario and Adrian b.6ba0e06bfa9c1ea75109.jpg",
@@ -13,12 +13,14 @@
     "static/media/footer-logo.png": "/little-lemon-project/static/media/footer-logo.4470f9c9e815da98dbb3.png",
     "index.html": "/little-lemon-project/index.html",
     "static/media/quotes_icon.svg": "/little-lemon-project/static/media/quotes_icon.96cbda1dbfbb59aa3ee044858f7d781e.svg",
-    "main.f30d2eea.css.map": "/little-lemon-project/static/css/main.f30d2eea.css.map",
-    "main.55a0ab24.js.map": "/little-lemon-project/static/js/main.55a0ab24.js.map",
+    "static/media/close-icon.svg": "/little-lemon-project/static/media/close-icon.2791559aacff61e43e9830e6e86fe5c2.svg",
+    "static/media/icon_hamburger_menu.svg": "/little-lemon-project/static/media/icon_hamburger_menu.0da6f67ced800ab909f63d5144de37ee.svg",
+    "main.3a54c05a.css.map": "/little-lemon-project/static/css/main.3a54c05a.css.map",
+    "main.192c3aff.js.map": "/little-lemon-project/static/js/main.192c3aff.js.map",
     "453.99c1801e.chunk.js.map": "/little-lemon-project/static/js/453.99c1801e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f30d2eea.css",
-    "static/js/main.55a0ab24.js"
+    "static/css/main.3a54c05a.css",
+    "static/js/main.192c3aff.js"
   ]
 }
