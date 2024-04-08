@@ -1,8 +1,8 @@
 import { render, screen } from '@testing-library/react';
-import App from './App';
+import TableReservation from './TableReservation';
+// Reserve table testing
 
-test('renders learn react link', () => {
-  render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
-});
+test('Renders table reservation heading', () => {
+  render(<TableReservation />);
+  const headingElement = screen.getByText("")
+})
