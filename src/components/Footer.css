@@ -45,3 +45,13 @@
     margin-bottom: 0.5em;
     margin-top: 0.5em;
 }
+
+@media only screen and (max-width: 768px) {
+    #footer {
+        grid-template-columns: 1fr;
+    }
+
+    #footer section {
+        justify-self: left;
+    }
+}

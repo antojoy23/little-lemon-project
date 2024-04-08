@@ -1,5 +1,6 @@
 #navigation {
     display: grid;
+    position: relative;
     grid-template-columns: 1fr 3fr;
 }
 
@@ -7,9 +8,27 @@ nav {
     align-self: center;
 }
 
-#navigation img {
+.desktop {
+    display: block;
+}
+
+.mobile {
+    display: none;
+}
+
+#logo {
     width: 200px;
     height: auto;
+}
+
+#hamburger, #close {
+    display: none;
+    width: 25px;
+    height: auto;
+    align-self: center;
+    justify-self: right;
+    margin-right: 5%;
+    cursor: pointer;
 }
 
 .nav-items {
@@ -24,4 +43,42 @@ nav {
     color: #000000;
     font-weight: 600;
     font-size: 1.3em;
+}
+
+@media only screen and (max-width: 768px) {
+    #navigation {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .nav-items {
+        width: 100%;
+        position: absolute;
+        grid-template-columns: 1fr;
+        z-index: 10;
+        background-color: #FFFFFF;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+        border-radius: 5px;
+        left: 0;
+        top: 60px;
+    }
+    .nav-items a {
+        text-align: center;
+        width: 100%;
+    }
+
+    .nav-items a:hover {
+        background-color: #F4CE14;
+        border-radius: 5px;
+    }
+
+    .desktop {
+        display: none;
+    }
+    .mobile {
+        display: block;
+    }
+
+    #hamburger, #close {
+        display: block;
+    }
 }

@@ -53,3 +53,14 @@
     justify-self: right;
     right: 280px;
 }
+
+@media only screen and (max-width: 768px) {
+
+    #main-heading article {
+        grid-template-columns: 1fr;
+    }
+
+    #main-heading section img {
+        display: none;
+    }
+}
