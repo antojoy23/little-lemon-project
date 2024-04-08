@@ -1,13 +1,15 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
+import Logo from '../../public/Logo.svg';
+
 import './NavBar.css';
 
 
 export default function NavBar() {
     return (
         <div id='navigation'>
-            <img src="%PUBLIC_URL%/Logo.svg" alt="Little Lemon Logo" />
+            <img src={Logo} alt="Little Lemon Logo" />
             <nav>
                 <ul className='nav-items'>
                     <Link to="/">Home</Link>
