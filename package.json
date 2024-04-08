@@ -2,7 +2,7 @@
   "name": "little-lemon",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/little-lemon-project",
+  "homepage": "https://antojoy23.github.io/little-lemon-project",
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.11.4",
