@@ -55,7 +55,7 @@ export default function Testimonials() {
                 {testimonialsData.map(testimonial => {
                     return (
                         <article className='testimonial-card' key={testimonial.id}>
-                            <img src={QuotesIcon} width={20} />
+                            <img src={QuotesIcon} width={20} alt="Customer review quotes" />
                             <p>{testimonial.quote}</p>
                             <p> - {testimonial.author}</p>
                         </article>

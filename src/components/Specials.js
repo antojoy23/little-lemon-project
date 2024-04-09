@@ -16,7 +16,7 @@ export default function Specials() {
                         <h3>Bruschetta</h3>
                         <h4>$16.99</h4>
                         <p>Toasted bread, topped with tomato, prosciutto, and cheese. Seasoned with salt and olive oil.</p>
-                        <div className='out-for-delivery-btn'><a href="#">Order for delivery</a></div>
+                        <div className='out-for-delivery-btn'><a href="/#">Order for delivery</a></div>
                     </div>
                 </article>
                 <article>
@@ -25,7 +25,7 @@ export default function Specials() {
                         <h3>Greek Salad</h3>
                         <h4>$12.99</h4>
                         <p>Refreshing salad, made with tomato, lettuce, feta cheese, and olives. Dressed with salt, hot pepper and olive oil.</p>
-                        <div className='out-for-delivery-btn'><a href="#">Order for delivery</a></div>
+                        <div className='out-for-delivery-btn'><a href="/#">Order for delivery</a></div>
                     </div>
                 </article>
                 <article>
@@ -34,7 +34,7 @@ export default function Specials() {
                         <h3>Lemon Dessert</h3>
                         <h4>$8.50</h4>
                         <p>Fresh baked lemon bread coated in salt and sugar. Powdered in citrus and lemon zest.</p>
-                        <div className='out-for-delivery-btn'><a href="#">Order for delivery</a></div>
+                        <div className='out-for-delivery-btn'><a href="/#">Order for delivery</a></div>
                     </div>
                 </article>
             </section></>
